@@ -1,0 +1,5 @@
+This folder contains all the public resources I could find on GameBoy emulation relevant to this project.
+
+It is to be used internally in this project, but may also be helpful to those building their own GameBoy emulator.
+
+
