@@ -1,0 +1,8 @@
+This file contains references to other emulators, which can be useful for implementing an emulator.
+
+GBAiD
+-----
+
+https://github.com/DDoS/GBAiD
+GBA emulator written in D.
+Currently working for a small handful of mainstream games.
